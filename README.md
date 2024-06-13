@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Felipe Fernandes
 
-<!--
-**FellipFB/FellipFB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 👨‍💻 Desenvolvedor backend
+- 🎓 Estudante de Física
+- 🌍 Localização: Ceará, Brasil
+- 📫 Como me encontrar: felipeb.fnandes@gmail.com
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens de Programação: Python, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+Atualmente estou trabalhando em novos projetos. Em breve mais novidades!
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FellipFB&show_icons=true&theme=radical)
+
+## Contato
+[![Instagram](https://img.shields.io/badge/-lippjz_sz-800080?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lippjz_sz/?hl=pt-br)](https://www.instagram.com/lippjz_sz/?hl=pt-br)
+
+## Interesses
+- Física
+- Desenvolvimento de Software
+
+---
+
+⭐️ Fique à vontade para me seguir e acompanhar meu progresso!
