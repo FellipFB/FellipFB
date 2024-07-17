@@ -16,7 +16,7 @@ Atualmente estou trabalhando em novos projetos. Em breve mais novidades!
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FellipFB&show_icons=true&theme=radical)
 
 ## Contato
-[![Instagram](https://img.shields.io/badge/-lippjz_sz-800080?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lippzz_sz/?hl=pt-br)](https://www.instagram.com/lippzz_sz/?hl=pt-br)
+[![Instagram](https://img.shields.io/badge/-lippzz_sz-800080?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lippzz_sz/?hl=pt-br)](https://www.instagram.com/lippzz_sz/?hl=pt-br)
 
 ## Interesses
 - Física
