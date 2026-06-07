@@ -1,6 +1,6 @@
 # FellipFB
 
-> Técnico em Informática · Fã de pixel art · Automação & Redes
+> Técnico em Informática · Automação & Redes
 
 ---
 
