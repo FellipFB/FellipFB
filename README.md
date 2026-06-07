@@ -6,9 +6,7 @@
 
 ### Sobre
 
-Sou formado em Técnico em Informática pelo **IFCE Campus Acaraú**. Curto segurança, redes, automação e tudo que envolva lógica e boas ferramentas. A estética **pixel art** me atrai — seja nos jogos como Terraria, seja nos projetos que construo por aqui.
-
----
+Sou formado em Técnico em Informática pelo **IFCE Campus Acaraú**. Curto segurança, redes, automação e tudo que envolva lógica e boas ferramentas.
 
 ### Tecnologias
 
