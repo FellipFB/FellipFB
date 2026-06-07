@@ -1,49 +1,73 @@
-<h2 align="left">Olá👋🏽 sou Felipe, Desenvolver Full-Stack!</h2>
+# 👋 Olá! Eu sou o Felipe
 
-### 👨🏽‍💻 Contribuições
+**`Desenvolvedor Full Stack | Cybersecurity | Entusiasta de Exploração Espacial`**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FellipFB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FellipFB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Sou fascinado por tecnologia, segurança da informação e dados. Curso desenvolvimento de sistemas e estou sempre explorando novas ferramentas, criando projetos que unem utilidade real e aprendizado prático. Aqui no GitHub você encontra desde ferramentas de rede até aplicações web com dados da NASA.
 
-###
+---
 
-<img align="right" height="150" src="images/spidertocat.png"  />
+### 🧰 Tecnologias e Ferramentas
 
-### 💾 Tecnologias
+**Linguagens**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**Frameworks e Bibliotecas**
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
+**Ferramentas**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 📬 Contato  
+---
 
-<a href="https://www.instagram.com/lippzz_sz/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>  
+### 🚀 Projetos em Destaque
 
-<a href="mailto:felipeb.fnandes@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>  
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**NetSweep**](https://github.com/FellipFB/netsweep) | Ferramenta CLI de varredura de rede local — descobre dispositivos, escaneia portas e gera relatórios | Python, Rich |
+| [**OutOfThisOrbit**](https://github.com/FellipFB/OutOfThisOrbit) | App web interativo que calcula o ESI (Earth Similarity Index) de milhares de exoplanetas usando dados reais da NASA | JS, Tailwind, Chart.js |
+| [**SLL-eduOS**](https://github.com/FellipFB/SLL-eduOS_private) | Sistema de Locação de Livros para ambiente educacional | PHP |
+| [**fellipfb.github.io**](https://github.com/FellipFB/fellipfb.github.io) | Meu site pessoal / portfólio | HTML, CSS, JS |
 
+---
 
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipFB&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipFB&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FellipFB/FellipFB/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FellipFB/FellipFB/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FellipFB/FellipFB/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FellipFB&theme=radical&hide_border=true" />
+</p>
 
+---
 
+### 🌱 O que estou aprendendo agora
+
+- Aprofundando em **Python** para automação e segurança ofensiva
+- Explorando **JavaScript Vanilla** e consumo de APIs REST
+- Desenvolvendo sistemas web com **PHP** para gestão acadêmica
+- Sempre de olho em **Cybersecurity**, **redes** e **Linux**
+
+---
+
+### 📫 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FellipFB)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-fernandes-a744012a3)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipeb.fnandes@gmail.com)
+[![Site](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://fellipfb.github.io)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FellipFB&color=blueviolet&style=flat-square&label=Visitantes" alt="Visit counter" />
+</p>
