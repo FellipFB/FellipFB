@@ -26,7 +26,7 @@ Sou formado em Técnico em Informática pelo **IFCE Campus Acaraú**. Curto segu
 
 - **🛰️ [NetSweep](https://github.com/FellipFB/netsweep)** — Scanner de rede local via terminal (Python)
 - **🌍 [OutOfThisOrbit](https://github.com/FellipFB/OutOfThisOrbit)** — Índice de similaridade terrestre com dados da NASA (JS)
-- **📚 [SLL-eduOS](https://github.com/FellipFB/SLL-eduOS)** — Sistema de locação de livros (PHP)
+- **📚 [SLL-eduOS](https://github.com/FellipFB/SLL-eduOS_private)** — Sistema de locação de livros (PHP)
 - **🧑‍💻 [fellipfb.github.io](https://github.com/FellipFB/fellipfb.github.io)** — Portfólio pessoal
 
 ---
