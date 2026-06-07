@@ -39,7 +39,7 @@ Sou formado em Técnico em Informática pelo **IFCE Campus Acaraú**. Curto segu
 ### Contato
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FellipFB)<br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-fernandes-a744012a3)<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-fernandes-a744012a3test)<br>
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipeb.fnandes@gmail.com)<br>
 [![Site](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://fellipfb.github.io)
 
