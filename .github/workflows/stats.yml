@@ -1,0 +1,35 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: FellipFB
+          show_icons: true
+          theme: dark
+          output: github-stats.svg
+
+      - name: Generate Top Languages Card
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: FellipFB
+          theme: dark
+          output: top-langs.svg
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update stats" || exit 0
+          git push
